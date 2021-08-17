@@ -16,7 +16,8 @@ To run the test:
     npm test
 
 ## REPLACE CONDITIONAL POLYMORPHISM
-Help:   https://refactoring.guru/es/replace-conditional-with-polymorphism
+### Help:   
+        https://refactoring.guru/es/replace-conditional-with-polymorphism
 
         https://github.com/HugoMatilla/Refactoring-Summary#38-replace-conditional-with-polymorphism
 
